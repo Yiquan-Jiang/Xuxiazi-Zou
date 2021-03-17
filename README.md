@@ -4,3 +4,4 @@
 2. Celltype_proportion_statistics.xlsx，这个文件存放细胞类型的比例情况；
 3. DEGs.xlsx，这个文件存放本研究所做的差异基因分析的结果；
 4. Number_of_DEGs.xlsx，这个文件存放本研究所做的差异基因数量分析的情况；
+5. Cell-cell Interaction files.rar，这个文件存放本研究所做的细胞间配体受体相互作用分析的结果。
